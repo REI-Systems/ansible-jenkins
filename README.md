@@ -33,7 +33,7 @@ Installation
 Install using ansible galaxy:
 
 ```
-$ ansible-galaxy install emmetog.jenkins
+$ ansible-galaxy install REI-Systems.jenkins
 ```
 
 Role Variables
